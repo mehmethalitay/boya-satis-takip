@@ -1,4 +1,4 @@
-Boya Staış Takip 
+Boya Satış Takip 
 
 Firma ihtiyaçları doğrultusunda, satışı yapılan boyaların renk kodları ve tarihleri ile birlikte kaydının tutulması için geliştirilmiştir.
 
